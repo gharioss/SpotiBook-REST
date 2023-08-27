@@ -1,7 +1,7 @@
 // See https://github.com/typicode/json-server#module
 const fs = require('fs');
-fs.readFileSync("../db.json", "utf8");
-fs.copyFile( "../db.json","/tmp/bdd.json", (err) => {
+fs.readFileSync("./db.json", "utf8");
+fs.copyFile( "./db.json","/tmp/bdd.json", (err) => {
     if (err) {
       console.log("Error Found:", err);
     }
