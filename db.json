@@ -24,7 +24,7 @@
   },
   {
     "id": 3,
-    "nom": "Boite pas d'ici",
+    "nom": "Boite pas d'ici"
   }],
 "livres": [{
     "id": 1,
@@ -40,6 +40,6 @@
     "id": 3,
     "nom": "Livre 3",
     "boite": 1
-  }],
+  }]
 }
 
