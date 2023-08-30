@@ -1,16 +1,27 @@
 {
-  "users": [{
+  "users": [
+  {
     "id": 1,
     "prenom": "Andy",
     "nom": "Capé",
-    "email": "andy@gmail.com"
+    "email": "andy@gmail.com",
+    "guid": "32b4397a-476a-11ee-be56-0242ac120002"
   },
   {
     "id": 2,
     "prenom": "Anna",
     "nom": "Tomie",
-    "email": "anna@gmail.com"
-  }],
+    "email": "anna@gmail.com",
+    "guid": "32b43c5e-476a-11ee-be56-0242ac120002"
+  },
+  {
+    "id": 3,
+    "prenom": "Jean",
+    "nom": "Neymar",
+    "email": "jeanjaille@gmail.com",
+    "guid": "32b442ee-476a-11ee-be56-0242ac120002"
+  }
+],
 "boites": [{
     "id": 1,
     "nom": "Boite de Pandore",
