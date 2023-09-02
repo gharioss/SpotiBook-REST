@@ -46,7 +46,7 @@
 "livres": [{
     "id": 1,
     "nom": "Apprendre à programmer pour les nuls",
-    "etat": "Disponible",
+    "etat": "boite/1",
     "auteur": "Wallace Wang",
     "résumé": "Avec Apprendre à programmer Pour les Nuls, il n'est pas question de faire de vous un programmateur professionnel en quelques jours mais de vous mettre le pied à l'étrier afin de vous apprendre à développer des programmes dans un langage structuré. En quelques heures vous deviendrez familier avec la structure de base de données, les opérateurs, les instructions conditionnelles, la gestion des tableaux, etc. Vous apprendrez également les bases du langage HTML, le langage d'Internet.",
     "boite": 1
@@ -54,7 +54,7 @@
   {
     "id": 2,
     "nom": "Comprendre Matrix en 35 tomes",
-    "etat": "Disponible",
+    "etat": "boite/2",
     "auteur": "John Wick",
     "résumé": "Programmeur anonyme dans un service administratif le jour, Thomas Anderson devient Neo la nuit venue. Sous ce pseudonyme, il est l'un des pirates les plus recherchés du cyber-espace. À cheval entre deux mondes, Neo est assailli par d'étranges songes et des messages cryptés provenant d'un certain Morpheus. Celui-ci l'exhorte à aller au-delà des apparences et à trouver la réponse à la question qui hante constamment ses pensées : qu'est-ce que la Matrice ?",
     "boite": 2
@@ -62,7 +62,7 @@
   {
     "id": 3,
     "nom": "Comprendre Matrix en 5 lignes",
-    "etat": "Disponible",
+    "etat": "boite/2",
     "auteur": "John Weak",
     "résumé": "La série raconte l'histoire d'une singularité technologique.",
     "boite": 2
@@ -70,7 +70,7 @@
   {
     "id": 4,
     "nom": "1984",
-    "etat": "Disponible",
+    "etat": "boite/1",
     "auteur": "George Orwell",
     "résumé": "De tous les carrefours importants, le visage à la moustache noire vous fixait du regard. BIG BROTHER VOUS REGARDE, répétait la légende, tandis que le regard des yeux noirs pénétrait les yeux de Winston... Au loin, un hélicoptère glissa entre les toits, plana un moment, telle une mouche bleue, puis repartit comme une flèche, dans un vol courbe. C'était une patrouille qui venait mettre le nez aux fenêtres des gens. Mais les patrouilles n'avaient pas d'importance. Seule comptait la Police de la Pensée.",
     "boite": 2
@@ -78,7 +78,7 @@
   {
     "id": 5,
     "nom": "Martine débug les node_modules",
-    "etat": "Disponible",
+    "etat": "user/03b04b8e-1b73-4954-a4d8-fb76a6feda19",
     "auteur": "Gilbert Delahaye",
     "résumé": "Martine, l'héroïne, est une petite fille d'une dizaine d'années qui vit des « aventures » simples ancrées dans le quotidien. Phénomène de l'édition, une centaine de millions d'exemplaires d'albums de la série, dont plus d'un quart en langues étrangères, se sont vendus dans une trentaine de pays",
     "boite": 3
